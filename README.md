@@ -70,6 +70,6 @@ Additional libraries used to improve UI, developer experience, and app functiona
 - ✅ Implemented Short URL and QR Code Generation
 - ✅ Completed AWS Set Up
 - ✅ Deployed to production 🚀 now live at [Short Paths](https://sp-li.com/)
-- 🚧 Improving UI / UX
-- ⏳ Implementing Analytics
+- ✅ Improving UI / UX
+- 🚧 Implementing Analytics
 - ⏳ Integrating Payment Gateway
