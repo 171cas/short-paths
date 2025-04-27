@@ -11,6 +11,7 @@ Built with **React**, **Vite**, **Tailwind**, **TypeScript**, and **AWS**.
 <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' height=75/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' height=75/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
 ## 📝 License
 
 This is a private project. Please do not use, copy, or distribute without permission.
@@ -20,6 +21,7 @@ This is a private project. Please do not use, copy, or distribute without permis
 ## ✨ Zero Vulnerabilities on Install 🔒
 
 ShortPaths installs cleanly with **`found 0 vulnerabilities`** after running either `npm install` or `npm ci`.
+
 
 ## 🌐 Language Support
 
@@ -36,6 +38,7 @@ Natively supports **10 languages**
 - 🇷🇺 **Russian**
 - 🇨🇳 **Chinese (Mandarin)**
 
+
 ## 🧩 Enhancements & Plugins
 
 Additional libraries used to improve UI, developer experience, and app functionality:
@@ -47,6 +50,7 @@ Additional libraries used to improve UI, developer experience, and app functiona
   **Coming Soon:**
 
 - [`React-Query`](https://tanstack.com/query/latest) – React Query
+
 
 ## 🛠️ Development Log
 
