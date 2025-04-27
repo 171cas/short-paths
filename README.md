@@ -1,6 +1,6 @@
 # 🔗 ShortPaths – Because Life’s Too Short for Long URLs
 
-<a href="https://main.du2yb3mtzlk72.amplifyapp.com/" target="_blank" rel="noopener noreferrer">🌍 Live Site</a> (Currently in active development)
+<a href="https://sp-li.com/" target="_blank" rel="noopener noreferrer">🌍 Live Site</a> (Currently in active development)
 
 A modern URL shortener with analytics, custom links, and QR code support.
 Built with **React**, **Vite**, **Tailwind**, **TypeScript**, and **AWS**.
