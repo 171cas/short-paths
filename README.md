@@ -11,7 +11,6 @@ Built with **React**, **Vite**, **Tailwind**, **TypeScript**, and **AWS**.
 <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' height=75/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' height=75/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-####
 ## 📝 License
 
 This is a private project. Please do not use, copy, or distribute without permission.
@@ -22,7 +21,6 @@ This is a private project. Please do not use, copy, or distribute without permis
 
 ShortPaths installs cleanly with **`found 0 vulnerabilities`** after running either `npm install` or `npm ci`.
 
-####
 ## 🌐 Language Support
 
 Natively supports **10 languages**
@@ -38,20 +36,18 @@ Natively supports **10 languages**
 - 🇷🇺 **Russian**
 - 🇨🇳 **Chinese (Mandarin)**
 
-####
 ## 🧩 Enhancements & Plugins
 
 Additional libraries used to improve UI, developer experience, and app functionality:
 
 - [`daisyui`](https://daisyui.com/) – Tailwind CSS component library
 - [`react-toastify`](https://fkhadra.github.io/react-toastify/introduction) – Toast notifications
-- [`Font-Awesome`](https://docs.fontawesome.com/) – Font Awesome Icons
+- [`Font-Awesome`](https://docs.fontawesome.com/) – Icon library for scalable vector icons
 
   **Coming Soon:**
 
-- [`React-Query`](https://tanstack.com/query/latest) – React Query
+- [`React-Query`](https://tanstack.com/query/latest) – State management for data fetching, caching, and synchronization
 
-####
 ## 🛠️ Development Log
 
 ##### _(✅ = done, 🚧 = in progress, ⏳ = planned)_
@@ -70,6 +66,5 @@ Additional libraries used to improve UI, developer experience, and app functiona
 - ✅ Implemented Short URL and QR Code Generation
 - ✅ Completed AWS Set Up
 - ✅ Deployed to production 🚀 now live at [Short Paths](https://sp-li.com/)
-- ✅ Improving UI / UX
 - 🚧 Implementing Analytics
 - ⏳ Integrating Payment Gateway
